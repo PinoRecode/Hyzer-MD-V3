@@ -296,7 +296,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "⬣━〔Powered By ©ArullOfc〕━⬣\n       ▌│█║▌║▌║║▌║▌║█│▌",
+            footerText: "⬣━〔Powered By © PINO MD〕━⬣\n       ▌│█║▌║▌║║▌║▌║█│▌",
             mtype: 'listMessage',
             sections: [
               {
@@ -499,7 +499,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedFooterText: wm2, 
             hydratedButtons: [{
             urlButton: {
-               displayText: 'YOUTUBE ME',
+               displayText: 'Website',
                url: web
              }
 
@@ -547,7 +547,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
 }
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = /^(alive|panel|Arull|Menu|menu|help|\?)$/i
+handler.command = /^(alive|panel|Pino|Menu|menu|help|\?)$/i
 handler.register = true
 handler.owner = false
 handler.mods = false
