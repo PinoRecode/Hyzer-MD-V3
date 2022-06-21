@@ -63,7 +63,7 @@ loadDatabase()
 // if (opts['cluster']) {
 //   require('./lib/cluster').Cluster()
 // }
-global.authFile = `${opts._[0] || 'hyzer'}.data.json`
+global.authFile = `${opts._[0] || 'session'}.data.json`
 global.isInit = !fs.existsSync(authFile)
 const { state, saveState } = useSingleFileAuthState(global.authFile)
 
@@ -124,8 +124,8 @@ global.reloadHandler = function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = '*Welcome To Groub* @subject\n\n*Moga Betah Yah;)*'
-  conn.bye = '*Keluar Tuh Si Beban,Dadahh👋*'
+  conn.welcome = '*Welcome To Groub* @subject\n\n*Minimal nimbrung*'
+  conn.bye = '@user *Telah Keluar*'
   conn.spromote = '@user *sekarang admin!*'
   conn.sdemote = '@user *sekarang bukan admin!*'
   conn.sDesc = '*Deskripsi telah diubah ke* \n@desc'
