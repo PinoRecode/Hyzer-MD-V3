@@ -520,7 +520,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
-               displayText: 'RULES ARULLBOTZMD',
+               displayText: 'RULES',
                id: '.rules',
              }
 
