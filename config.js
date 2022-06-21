@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = [] 
-global.prems = [''] 
+global.owner = ['628895377665'] 
+global.mods = [628895377665] 
+global.prems = ['628895377665'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
-global.gopay = ''
+global.nameowner = 'Pino MD'
+global.numberowner = '62'
+global.instagram = 'https://instagram.com/pinomodz'
+global.github = 'https://pinorecode.github.io'
+global.dana = 'Gak ada'
+global.pulsa = '08895377665'
+global.gopay = 'Scan QR Di Profil'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'PinoBOT-MD'
 global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
-global.web = 'https://youtu.be/jOhhY7ef_qM' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.web = 'http://pinowebdev.coolpage.biz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'Cek Produk Di Profil'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/fc3fbc52804676228058f.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/fc3fbc52804676228058f.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❚█══ArullBotz‖MD‖'
+global.wm = '❚█══PinoBotz‖MD‖'
 global.watermark = wm
-global.wm2 = '                     「 ArullBotzMD あ⁩ 」'
-global.wm3 = '⫹⫺ ❚█══ArullBotz‖MD‖'
+global.wm2 = '                     「 PinoBotzMD あ⁩ 」'
+global.wm3 = '⫹⫺ ❚█══PinoBotz‖MD‖'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'Sticker By'
-global.author = '© ArullOfc'
+global.author = '© PinoMD'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
