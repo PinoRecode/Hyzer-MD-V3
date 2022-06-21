@@ -5,7 +5,7 @@ global.prems = ['628895377665']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Pino MD'
-global.numberowner = '62'
+global.numberowner = '628895377665'
 global.instagram = 'https://instagram.com/pinomodz'
 global.github = 'https://pinorecode.github.io'
 global.dana = 'Gak ada'
@@ -14,7 +14,7 @@ global.gopay = 'Scan QR Di Profil'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'PinoBOT-MD'
-global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
+global.gc = 'https://chat.whatsapp.com/CmlrDN2xl0lCl4eBHLe6IJ'
 global.web = 'http://pinowebdev.coolpage.biz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Cek Produk Di Profil'
 
