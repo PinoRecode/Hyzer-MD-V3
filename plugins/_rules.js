@@ -31,14 +31,14 @@ let krizyn = `
                 {
                urlButton: {
                displayText: 'INSTAGRAM',
-               url: 'https://instagram.com/PINOMODZ'
+               url: 'https://instagram.com/pinomodz'
              }
 
            },
                {
              quickReplyButton: {
                displayText: 'JANGAN DIPENCET',
-               id: '.klikkk',
+               id: '',
              }
              
            },
